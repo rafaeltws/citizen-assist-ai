@@ -1,0 +1,66 @@
+[
+  {
+    "id": 3,
+    "titulo": "Cadastro Único (CadÚnico)",
+    "categoria": "Assistência Social",
+    "descricao": "Inscrição de famílias de baixa renda para acesso a programas sociais.",
+    "requisitos": "Documentos de todos os membros da família e comprovante de residência.",
+    "local": "CRAS da região"
+  },
+  {
+    "id": 4,
+    "titulo": "Orientação socioassistencial",
+    "categoria": "Assistência Social",
+    "descricao": "Atendimento e orientação sobre benefícios e programas de proteção social.",
+    "requisitos": "Documento com foto.",
+    "local": "CRAS ou CREAS"
+  },
+  {
+    "id": 5,
+    "titulo": "Emissão de carteira de identidade",
+    "categoria": "Documentação e Cidadania",
+    "descricao": "Primeira e segunda via do documento de identidade.",
+    "requisitos": "Certidão de nascimento ou casamento e comprovante de residência.",
+    "local": "Posto de identificação"
+  },
+  {
+    "id": 6,
+    "titulo": "Título de eleitor",
+    "categoria": "Documentação e Cidadania",
+    "descricao": "Emissão, transferência e regularização do título de eleitor.",
+    "requisitos": "Documento com foto e comprovante de residência.",
+    "local": "Cartório eleitoral"
+  },
+  {
+    "id": 7,
+    "titulo": "Curso de informática básica",
+    "categoria": "Educação e Qualificação",
+    "descricao": "Curso gratuito de introdução ao uso de computadores e internet.",
+    "requisitos": "Idade mínima de 16 anos e documento com foto.",
+    "local": "Centro de qualificação profissional"
+  },
+  {
+    "id": 1,
+    "titulo": "Consulta clínica geral na UBS",
+    "categoria": "Saúde",
+    "descricao": "Atendimento básico de saúde, com acompanhamento e encaminhamentos.",
+    "requisitos": "Documento com foto, cartão SUS e comprovante de residência.",
+    "local": "Unidade Básica de Saúde do bairro"
+  },
+  {
+    "id": 2,
+    "titulo": "Vacinação",
+    "categoria": "Saúde",
+    "descricao": "Aplicação de vacinas do calendário nacional de imunização.",
+    "requisitos": "Documento com foto e caderneta de vacinação.",
+    "local": "Unidades de saúde e postos de vacinação"
+  },
+  {
+    "id": 8,
+    "titulo": "Solicitação de reparo de iluminação pública",
+    "categoria": "Serviços Urbanos",
+    "descricao": "Abertura de chamado para troca de lâmpadas e reparo de postes.",
+    "requisitos": "Endereço exato e ponto de referência.",
+    "local": "Central de atendimento ao cidadão"
+  }
+]

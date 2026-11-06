@@ -1,0 +1,466 @@
+=== DEMO 1: lista vazia ===
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Todos os serviços ---
+Nenhum serviço cadastrado.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Consultar por ID ---
+A lista está vazia. Cadastre serviços primeiro.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Excluir serviço ---
+A lista está vazia. Nada a excluir.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Ordenar e exibir ---
+A lista está vazia. Nada a ordenar.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Análise dos serviços cadastrados ---
+Total de registros: 0
+Sem dados para análise.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção:   ✗ Opção inexistente. Escolha uma das opções do menu.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: Dados salvos em '/tmp/vazio.json'.
+Até logo!
+
+
+=== DEMO 2: fluxo completo ===
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: ✓ 8 serviço(s) de exemplo adicionado(s) (0 já existiam).
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Pesquisar ---
+  1. Por título
+  2. Por categoria
+Pesquisar por: Termo de pesquisa: 
+2 serviço(s) encontrado(s):
+
+    ID | Título                               | Categoria                  | Local
+--------------------------------------------------------------------------------------------------------
+     1 | Consulta clínica geral na UBS        | Saúde                      | Unidade Básica de Saúde do ba…
+     2 | Vacinação                            | Saúde                      | Unidades de saúde e postos de…
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Pesquisar ---
+  1. Por título
+  2. Por categoria
+Pesquisar por: Termo de pesquisa: Nenhum serviço encontrado para 'zzz' em titulo.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Ordenar e exibir ---
+  1. Por ID
+  2. Por título
+  3. Por categoria
+Ordenar por: 
+Lista ordenada por titulo (Merge Sort):
+
+    ID | Título                               | Categoria                  | Local
+--------------------------------------------------------------------------------------------------------
+     3 | Cadastro Único (CadÚnico)            | Assistência Social         | CRAS da região
+     1 | Consulta clínica geral na UBS        | Saúde                      | Unidade Básica de Saúde do ba…
+     7 | Curso de informática básica          | Educação e Qualificação    | Centro de qualificação profis…
+     5 | Emissão de carteira de identidade    | Documentação e Cidadania   | Posto de identificação
+     4 | Orientação socioassistencial         | Assistência Social         | CRAS ou CREAS
+     8 | Solicitação de reparo de iluminação… | Serviços Urbanos           | Central de atendimento ao cid…
+     6 | Título de eleitor                    | Documentação e Cidadania   | Cartório eleitoral
+     2 | Vacinação                            | Saúde                      | Unidades de saúde e postos de…
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Cadastrar serviço ---
+ID do serviço (Enter para cancelar):   ✗ Já existe um serviço com o ID 3. Informe outro.
+ID do serviço (Enter para cancelar):   ✗ O identificador deve ser um número inteiro positivo.
+ID do serviço (Enter para cancelar): Título:   1. Saúde
+  2. Assistência Social
+  3. Documentação e Cidadania
+  4. Educação e Qualificação
+  5. Serviços Urbanos
+Categoria (número):   ✗ Escolha um número de 1 a 5.
+Categoria (número): Descrição: Requisitos: Local de atendimento: ✓ Serviço 50 cadastrado com sucesso.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Consultar por ID ---
+ID do serviço (Enter para cancelar): Nenhum serviço encontrado com o ID 404.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Atualizar serviço ---
+ID do serviço (Enter para cancelar): 
+ID: 2
+Título: Vacinação
+Categoria: Saúde
+Descrição: Aplicação de vacinas do calendário nacional de imunização.
+Requisitos: Documento com foto e caderneta de vacinação.
+Local de atendimento: Unidades de saúde e postos de vacinação
+
+Pressione Enter para manter o valor atual.
+Título [Vacinação]:   1. Saúde
+  2. Assistência Social
+  3. Documentação e Cidadania
+  4. Educação e Qualificação
+  5. Serviços Urbanos
+Categoria (número) [Saúde]: Descrição [Aplicação de vacinas do calendário naci…]: Requisitos [Documento com foto e caderneta de vacin…]: Local de atendimento [Unidades de saúde e postos de vacinação]: ✓ Serviço 2 atualizado.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção:   ✗ Opção inexistente. Escolha uma das opções do menu.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Excluir serviço ---
+ID do serviço (Enter para cancelar): 
+ID: 3
+Título: Cadastro Único (CadÚnico)
+Categoria: Assistência Social
+Descrição: Inscrição de famílias de baixa renda para acesso a programas sociais.
+Requisitos: Documentos de todos os membros da família e comprovante de residência.
+Local de atendimento: CRAS da região
+
+Confirma a exclusão? (s/n):   ✗ Responda com 's' ou 'n'.
+
+Confirma a exclusão? (s/n): ✓ Serviço 3 excluído.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Todos os serviços ---
+    ID | Título                               | Categoria                  | Local
+--------------------------------------------------------------------------------------------------------
+     1 | Consulta clínica geral na UBS        | Saúde                      | Unidade Básica de Saúde do ba…
+     7 | Curso de informática básica          | Educação e Qualificação    | Centro de qualificação profis…
+     5 | Emissão de carteira de identidade    | Documentação e Cidadania   | Posto de identificação
+     4 | Orientação socioassistencial         | Assistência Social         | CRAS ou CREAS
+     8 | Solicitação de reparo de iluminação… | Serviços Urbanos           | Central de atendimento ao cid…
+     6 | Título de eleitor                    | Documentação e Cidadania   | Cartório eleitoral
+     2 | Vacinação 2026                       | Saúde                      | Unidades de saúde e postos de…
+    50 | Teste de cadastro                    | Saúde                      | Local
+
+Total: 8
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Análise dos serviços cadastrados ---
+Total de registros: 8
+
+Serviços por categoria:
+  Saúde                        3  ( 37.5%) ███
+  Assistência Social           1  ( 12.5%) █
+  Documentação e Cidadania     2  ( 25.0%) ██
+  Educação e Qualificação      1  ( 12.5%) █
+  Serviços Urbanos             1  ( 12.5%) █
+
+Categoria(s) com mais serviços: Saúde
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: Dados salvos em '/tmp/demo2.json'.
+Até logo!
+
+
+=== DEMO 3: reabrindo o arquivo salvo (persistência) ===
+8 registro(s) carregado(s) de '/tmp/demo2.json'.
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: 
+--- Todos os serviços ---
+    ID | Título                               | Categoria                  | Local
+--------------------------------------------------------------------------------------------------------
+     1 | Consulta clínica geral na UBS        | Saúde                      | Unidade Básica de Saúde do ba…
+     7 | Curso de informática básica          | Educação e Qualificação    | Centro de qualificação profis…
+     5 | Emissão de carteira de identidade    | Documentação e Cidadania   | Posto de identificação
+     4 | Orientação socioassistencial         | Assistência Social         | CRAS ou CREAS
+     8 | Solicitação de reparo de iluminação… | Serviços Urbanos           | Central de atendimento ao cid…
+     6 | Título de eleitor                    | Documentação e Cidadania   | Cartório eleitoral
+     2 | Vacinação 2026                       | Saúde                      | Unidades de saúde e postos de…
+    50 | Teste de cadastro                    | Saúde                      | Local
+
+Total: 8
+
+============================================
+        CITIZEN ASSIST AI - MENU
+============================================
+  1. Cadastrar serviço
+  2. Consultar por ID
+  3. Atualizar serviço
+  4. Excluir serviço
+  5. Pesquisar (título/categoria)
+  6. Ordenar e exibir
+  7. Listar todos
+  8. Apresentar análise
+  9. Salvar dados em arquivo
+ 10. Carregar dados de exemplo
+  0. Encerrar
+Escolha uma opção: Dados salvos em '/tmp/demo2.json'.
+Até logo!

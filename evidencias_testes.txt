@@ -1,0 +1,52 @@
+test_analise_com_dados (test_citizen_assist.TestAnalise.test_analise_com_dados) ... ok
+test_analise_lista_vazia (test_citizen_assist.TestAnalise.test_analise_lista_vazia) ... ok
+test_contar_por_categoria (test_citizen_assist.TestAnalise.test_contar_por_categoria) ... ok
+test_busca_em_lista_vazia (test_citizen_assist.TestBusca.test_busca_em_lista_vazia) ... ok
+test_busca_id_existente (test_citizen_assist.TestBusca.test_busca_id_existente) ... ok
+test_busca_id_inexistente (test_citizen_assist.TestBusca.test_busca_id_inexistente) ... ok
+test_pesquisa_atributo_invalido (test_citizen_assist.TestBusca.test_pesquisa_atributo_invalido) ... ok
+test_pesquisa_categoria (test_citizen_assist.TestBusca.test_pesquisa_categoria) ... ok
+test_pesquisa_sem_resultado (test_citizen_assist.TestBusca.test_pesquisa_sem_resultado) ... ok
+test_pesquisa_titulo_ignora_caixa_e_acento (test_citizen_assist.TestBusca.test_pesquisa_titulo_ignora_caixa_e_acento) ... ok
+test_insercao_fim_e_inicio (test_citizen_assist.TestListaEncadeada.test_insercao_fim_e_inicio) ... ok
+test_lista_vazia (test_citizen_assist.TestListaEncadeada.test_lista_vazia) ... ok
+test_remocao_cabeca_meio_cauda (test_citizen_assist.TestListaEncadeada.test_remocao_cabeca_meio_cauda) ... ok
+test_remover_inexistente (test_citizen_assist.TestListaEncadeada.test_remover_inexistente) ... ok
+test_remover_unico_elemento (test_citizen_assist.TestListaEncadeada.test_remover_unico_elemento) ... ok
+test_atualizacao_mantem_valores_com_enter (test_citizen_assist.TestMenu.test_atualizacao_mantem_valores_com_enter) ... ok
+test_cadastro_com_entradas_invalidas_e_duplicado (test_citizen_assist.TestMenu.test_cadastro_com_entradas_invalidas_e_duplicado) ... ok
+test_consulta_inexistente (test_citizen_assist.TestMenu.test_consulta_inexistente) ... ok
+test_exclusao_com_confirmacao (test_citizen_assist.TestMenu.test_exclusao_com_confirmacao) ... ok
+test_fim_de_entrada_nao_quebra (test_citizen_assist.TestMenu.test_fim_de_entrada_nao_quebra) ... ok
+test_opcao_inexistente_e_encerrar (test_citizen_assist.TestMenu.test_opcao_inexistente_e_encerrar) ... ok
+test_operacoes_com_lista_vazia (test_citizen_assist.TestMenu.test_operacoes_com_lista_vazia) ... ok
+test_ordenar_e_analise (test_citizen_assist.TestMenu.test_ordenar_e_analise) ... ok
+test_pesquisa_sem_resultado_e_com_resultado (test_citizen_assist.TestMenu.test_pesquisa_sem_resultado_e_com_resultado) ... ok
+test_criterio_invalido (test_citizen_assist.TestOrdenacao.test_criterio_invalido) ... ok
+test_lista_continua_funcional_apos_ordenar (test_citizen_assist.TestOrdenacao.test_lista_continua_funcional_apos_ordenar) ... ok
+test_ordenar_ja_ordenada_e_inversa (test_citizen_assist.TestOrdenacao.test_ordenar_ja_ordenada_e_inversa) ... ok
+test_ordenar_lista_vazia_e_unitaria (test_citizen_assist.TestOrdenacao.test_ordenar_lista_vazia_e_unitaria) ... ok
+test_ordenar_por_categoria_desempata_por_titulo (test_citizen_assist.TestOrdenacao.test_ordenar_por_categoria_desempata_por_titulo) ... ok
+test_ordenar_por_id (test_citizen_assist.TestOrdenacao.test_ordenar_por_id) ... ok
+test_ordenar_por_titulo_ignora_acentos_e_caixa (test_citizen_assist.TestOrdenacao.test_ordenar_por_titulo_ignora_acentos_e_caixa) ... ok
+test_arquivo_corrompido (test_citizen_assist.TestPersistencia.test_arquivo_corrompido) ... ok
+test_arquivo_inexistente (test_citizen_assist.TestPersistencia.test_arquivo_inexistente) ... ok
+test_registros_invalidos_sao_ignorados (test_citizen_assist.TestPersistencia.test_registros_invalidos_sao_ignorados) ... ok
+test_salvar_e_carregar (test_citizen_assist.TestPersistencia.test_salvar_e_carregar) ... ok
+test_atualizar (test_citizen_assist.TestSistema.test_atualizar) ... ok
+test_atualizar_inexistente_e_lista_vazia (test_citizen_assist.TestSistema.test_atualizar_inexistente_e_lista_vazia) ... ok
+test_atualizar_invalido_nao_altera_registro (test_citizen_assist.TestSistema.test_atualizar_invalido_nao_altera_registro) ... ok
+test_cadastro_normal (test_citizen_assist.TestSistema.test_cadastro_normal) ... ok
+test_campos_vazios_ou_longos (test_citizen_assist.TestSistema.test_campos_vazios_ou_longos) ... ok
+test_categoria_invalida (test_citizen_assist.TestSistema.test_categoria_invalida) ... ok
+test_consultar (test_citizen_assist.TestSistema.test_consultar) ... ok
+test_excluir (test_citizen_assist.TestSistema.test_excluir) ... ok
+test_excluir_inexistente_e_lista_vazia (test_citizen_assist.TestSistema.test_excluir_inexistente_e_lista_vazia) ... ok
+test_id_duplicado (test_citizen_assist.TestSistema.test_id_duplicado) ... ok
+test_ids_invalidos (test_citizen_assist.TestSistema.test_ids_invalidos) ... ok
+test_pesquisa_termo_vazio (test_citizen_assist.TestSistema.test_pesquisa_termo_vazio) ... ok
+
+----------------------------------------------------------------------
+Ran 47 tests in 0.009s
+
+OK
