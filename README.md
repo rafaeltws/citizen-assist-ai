@@ -357,3 +357,5 @@ Para regenerar as imagens: `pip install pillow matplotlib` e `python docs/gerar_
 ---
 
 <p align="center">Projeto acadêmico · Global Solution 2026.2 · Citizen Tech</p>
+
+<p align="center">Video do Projeto: (https://youtu.be/HHZAsbmuvh0)</p>
